@@ -1,0 +1,7 @@
+What is Python? What are the features of Python? What is pep 8?
+    Python is a dynamic, high level, free open source and interpreted programming language. It supports object-oriented programming as well as procedural oriented programming.
+
+Some of the features of Python are:
+	Python is a high-level programming language. It is also an interpreted language meaning that it doesn’t need to be compiled before running like other languages like C or Java. It is also dynamically typed that means you don’t need to state the types of variables when you declare. In Python programmers can repeatedly modify the program and see the result quickly. This allows them to try different ideas and see which one is best. It is cross platform meaning if you write some code in windows then it can be used in other OS like mac OS and Linux as well. It is free and open source that means the code is open for public.
+
+	PEP 8 stands for Python Enhancement Proposals, it is a set of rules that specify how to format python code. A PEP is a document that describes new features proposed for Python and documents aspects of Python, like design and style, for the community.
